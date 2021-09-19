@@ -1,0 +1,128 @@
+.mainImage {
+	border: solid 2px black;
+	width: 500px;
+	height: 300px;
+}
+
+body {
+	background: url('/resources/background.jpg');
+	background-position: top;
+	background-size: 100%
+	
+}
+
+.main {
+	text-align: center;
+	color: black;
+}
+
+.menu {
+	text-align: center;
+	height: 53px;
+	width: 100%;
+	line-height: 50px;
+}
+
+.nav {
+	margin-top: 1.5px;
+	display: inline-block;
+	width: 180px;
+	text-align: center;
+}
+
+.nav:hover {
+	border-bottom: solid 2px black;
+}
+
+
+a {
+	font-size: 20px;
+	color: black;
+	text-decoration: none;
+}
+
+a:active {
+	color: white;
+}
+
+header {
+	text-align: center;
+}
+
+table {
+	margin-top: 20px;
+	font-size: 25px;
+	border-collapse: collapse;
+	text-align: center;
+	border: solid 1px black;
+}
+
+td {
+	border: solid 1px black;
+	font-size: 15px;
+	width: 100px;
+	height: 50px;
+}
+
+article {
+	margin-top: 30px;
+	text-align: justify;
+	font-size: 20px;
+}
+
+.textInput {
+	margin-top: 20px;
+	width: 200px;
+	height: 15px;
+}
+
+.submitButton {
+	width: 150px;
+	height: 25px;
+}
+
+.resetButton {
+	margin-left: 20px;
+	width: 150px;
+	height: 25px;
+}
+
+.aboutMe {
+	padding: 10px;
+}
+
+ol {
+	text-align: center;
+}
+
+.links {
+	width: 10%;
+	height: 100%;
+	text-align: left;
+}
+
+.sectionOfInterests {
+	width: 80%;
+	margin-left: 10%;
+	margin-top: -15%; 
+}
+
+.test {
+	font-size: 20px;
+	width: 50%;
+	margin-left: 25%;
+	margin-top: 10px;
+	border: solid black 1px;
+}
+
+.testPart {
+	border-bottom: solid black 1px;
+}
+
+.testPart:last-child {
+	border-bottom: none;
+}
+
+textarea {
+	block-size: 150px 50px;
+}
