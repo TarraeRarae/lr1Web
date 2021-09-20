@@ -104,7 +104,7 @@ ol {
 .sectionOfInterests {
 	width: 80%;
 	margin-left: 10%;
-	margin-top: -15%; 
+	margin-top: -13%; 
 }
 
 .test {
@@ -125,4 +125,9 @@ ol {
 
 textarea {
 	block-size: 150px 50px;
+}
+
+.photoInAlbum {
+	widows: 150px;
+	height: 150px;
 }
