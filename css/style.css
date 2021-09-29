@@ -5,7 +5,7 @@
 }
 
 body {
-	background: url('/resources/background.jpg');
+	background: url('/Users/aleksej/Desktop/git/lr1Web/resources/background.jpg');
 	background-position: top;
 	background-size: 100%
 	
@@ -105,7 +105,7 @@ ol {
 .sectionOfInterests {
 	width: 80%;
 	margin-left: 10%;
-	margin-top: -13%; 
+	margin-top: -11%; 
 }
 
 .test {
