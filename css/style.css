@@ -6,9 +6,7 @@
 
 body {
 	background: url('/Users/aleksej/Desktop/git/lr1Web/resources/background.jpg');
-	background-position: top;
-	background-size: 100%
-	
+	background-attachment: fixed;
 }
 
 .main {
